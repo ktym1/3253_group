@@ -1,4 +1,4 @@
-# 3253_group
+# 3253 Final Project
 
 We use Machine Learning to help detect Diabetic Retinopathy from eye images.
 The dataset is from: https://www.kaggle.com/c/aptos2019-blindness-detection/data
