@@ -5,6 +5,8 @@ The dataset is from: https://www.kaggle.com/c/aptos2019-blindness-detection/data
 
 This is the final Project for SCS3253 (University of Toronto).
 
+YouTube Video url: https://www.youtube.com/watch?v=ccOaNPD5SVk&feature=youtu.be
+
 ## Method
 Using Keras API for TensorFlow
 
