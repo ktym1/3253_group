@@ -13,4 +13,9 @@ Using Keras API for TensorFlow
 3. Use Dropout, Learning Rate adjustment and Early Stopping to reduce overfitting
 
 ## Results
-With **entropy set to 5**: loss: 0.8137 - accuracy: 0.7128 - val_loss: 0.8607 - val_accuracy: 0.6973
+- Training: Epoch stopped at 25 
+
+   loss: 0.8112 - accuracy: 0.7185 - val_loss: 0.8475 - val_accuracy: 0.7015
+- Testing: 
+
+   loss: 0.8072641640901566 - accuracy: 0.71934605
